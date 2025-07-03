@@ -5,9 +5,9 @@ https://ai.google.dev/gemini-api/docs/models
 
 The Gemini API key is free to obtain and use for testing and development purposes. You can get your API key by creating a free account on Google AI Studio and following the instructions to generate it. While there is a free tier with rate limits for testing, higher rate limits and more features are available in a paid tier. 
 
-![Sentiment angry payload](img\Sentiment_angry_payload.png)
-![Sentiment angry response](img\Sentiment_angry_response.png)
-![Sentiment happy](img\Sentiment_happy.png)
+![Sentiment angry payload](./img/Sentiment_angry_payload.png)
+![Sentiment angry response](./img/Sentiment_angry_response.png)
+![Sentiment happy](./img/Sentiment_happy.png)
 
 # How to Generate a Google Gemini API Key: Step-by-Step Guide
 https://www.youtube.com/watch?v=o8iyrtQyrZM
