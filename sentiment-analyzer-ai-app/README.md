@@ -1,4 +1,4 @@
-# Sestiment Analyzer using Google Gemini API (Gemini 1.5 Pro & Gemini 1.5 Flash)
+# Sentiment Analyzer using Google Gemini API (Gemini 1.5 Pro & Gemini 1.5 Flash)
 https://aistudio.google.com/prompts/new_chat
 https://ai.google.dev/gemini-api/docs
 https://ai.google.dev/gemini-api/docs/models
