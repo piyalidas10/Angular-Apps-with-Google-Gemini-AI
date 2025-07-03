@@ -151,6 +151,3 @@ Code
 
     ng serve
 After these steps, daisyUI component classes and Tailwind CSS utility classes can be used directly in Angular templates.
-
-
-https://www.youtube.com/watch?v=7309JVeeXiw
