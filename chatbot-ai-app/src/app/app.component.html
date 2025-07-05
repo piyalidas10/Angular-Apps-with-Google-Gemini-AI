@@ -1,0 +1,39 @@
+<div class="chat-container">
+  <header class="chat-header">
+    <h2>ChatBot using Gemini AI</h2>
+  </header>
+  <main class="chat-history">
+    @for (item of chatHistory; track item.id) {
+      <div
+        class="chatbox"
+        [ngClass]="{ blue: item.from === 'user', green: item.from === 'bot' }"
+      >
+        <i
+          class="fa"
+          [ngClass]="{
+            'fa-user-circle': item.from === 'user',
+            'fa-graduation-cap': item.from === 'bot'
+          }"
+        ></i>
+        <span class="responses" [innerHTML]="formatChatMsg(item.message)"></span>
+      </div>
+    }
+    @if(loading()) {
+      <app-loading></app-loading>
+    }
+  </main>
+  <footer class="chat-input">
+    <input
+      type="text"
+      id="message-input"
+      (keyup.enter)="sendChat()"
+      placeholder="Type your message..."
+      [(ngModel)]="prompt"
+      [disabled]="loading()"
+      autocomplete="off"
+    />
+    <button id="send-button" (click)="sendChat()" [disabled]="loading()">
+      Send
+    </button>
+  </footer>
+</div>
