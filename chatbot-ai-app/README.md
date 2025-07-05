@@ -1,7 +1,9 @@
 # Chatbot using Google Gemini API (Gemini 2.5 Pro & Gemini 2.5 Flash)
-https://aistudio.google.com/prompts/new_chat
-https://ai.google.dev/gemini-api/docs
-https://ai.google.dev/gemini-api/docs/models
+https://aistudio.google.com/prompts/new_chat  
+https://ai.google.dev/gemini-api/docs  
+https://ai.google.dev/gemini-api/docs/models  
+https://ai.google.dev/api/generate-content  
+https://googleapis.github.io/js-genai/release_docs/index.html  
 
 ![Google Gemini API](./img/Gemini_AI_API.png)
 
