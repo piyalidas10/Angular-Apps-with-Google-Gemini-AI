@@ -14,7 +14,8 @@ The Gemini API key is free to obtain and use for testing and development purpose
 ![Chatbot 3](./img/chatbot_3.png)
 
 # How to Generate a Google Gemini API Key: Step-by-Step Guide
-https://www.youtube.com/watch?v=o8iyrtQyrZM
+https://aistudio.google.com/app/apikey  
+https://www.youtube.com/watch?v=o8iyrtQyrZM  
 
 # Integrating Gemini AI into an Angular 19 application involves several key steps to leverage its generative AI capabilities.
 
