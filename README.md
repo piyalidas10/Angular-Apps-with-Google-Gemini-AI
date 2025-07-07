@@ -15,6 +15,8 @@ https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateC
   }
 }
 ```
+![Gemini_API_Error_1](./img/Gemini_API_Error_1.png)
+![Gemini_API_Error_2](./img/Gemini_API_Error_2.png)
 
 ##  How to Generate a Google Gemini API Key: Step-by-Step Guide
 Sign up for a Google Cloud developer account. Access Google AI Studio and generate a new API key. This key is essential for authenticating requests to the Gemini API.
