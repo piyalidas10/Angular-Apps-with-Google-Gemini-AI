@@ -1,5 +1,5 @@
-# Angular-Apps-with-Google-Gemini-AI
-Angular Apps with Google Gemini AI
+# Angular Apps with Google Gemini AI
+Gemini is a multimodal AI model that can understand and generate text, as well as other types of information like audio, images, videos, and code. Gemini is Google's most capable AI model, and is the first to outperform human experts on MMLU (Massive Multitask Language).
 
 ## Gemini Models
 https://ai.google.dev/gemini-api/docs/models
