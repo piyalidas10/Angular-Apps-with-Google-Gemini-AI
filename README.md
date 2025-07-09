@@ -3,7 +3,7 @@ Gemini is a multimodal AI model that can understand and generate text, as well a
 
 # Types of Gemini Models
 
-**Flash**
+**Flash**  
 Flash is all about speed. Think of Usain Bolt, the fastest man ever. This is flash. Flash is built for tasks that need quick responses. Real time interaction and lightning fast results. Say, for example, you're working on something that needs instant feedback like customers, live chat, fast summarization, or troubleshooting an urgent problem. 
 Flash is the one to call.
 Our best model in terms of price-performance, offering well-rounded capabilities.
@@ -11,7 +11,7 @@ Our best model in terms of price-performance, offering well-rounded capabilities
   -   Model thinks as needed; or, you can configure a thinking budget
   -   Best for low latency, high volume tasks that require thinking
 
-**Pro**
+**Pro**  
 Pro is the powerhouse of the family. Pro is the marathon runner. It's made for those bigger, more complex tasks. Stuff like, uh, detailed research, analyzing big chunks of data, solving complex mathematical problems, going through the stock market graphs and then analyzing them. You name it, whatever thing that comes complex in the mind. This is for the pro.
 Our most powerful thinking model with maximum response accuracy and state-of-the-art performance.
   -  Input audio, images, video, and text, get text responses
