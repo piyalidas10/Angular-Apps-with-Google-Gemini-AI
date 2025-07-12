@@ -90,4 +90,4 @@ Code
 npm install @google/generative-ai
 ```
 ## +50 Image & Video generation Ideas with Gemini
-![+50 Image & Video generation Ideas with Gemini](./tutorials/+50 Image & Video generation Ideas with Gemini.pdf)
+[+50 Image & Video generation Ideas with Gemini](https://github.com/piyalidas10/Angular-Apps-with-Google-Gemini-AI/blob/3bf05003686bebfb8324e0435a5a2b4c2eadca8f/tutorials/%2B50%20Image%20%26%20Video%20generation%20Ideas%20with%20Gemini.pdf)
