@@ -94,3 +94,6 @@ npm install @google/generative-ai
 
 ## +25 Easy Work Hacks with Gemini & Google AI
 [+50 Image & Video generation Ideas with Gemini](https://github.com/piyalidas10/Angular-Apps-with-Google-Gemini-AI/blob/84ea9dab5626d82e0a943c6392b6e2c518ed259f/tutorials/%2B25%20Easy%20Work%20Hacks%20with%20Gemini%20%26%20Google%20AI.pdf)
+
+## +500 Gemini Prompts (Content creation, Design & More)
+[+500 Gemini Prompts (Content creation, Design & More)](https://github.com/piyalidas10/Angular-Apps-with-Google-Gemini-AI/blob/24fb9701b4a5bbd142012520fc7bc1baa9fcee12/tutorials/%2B500%2BGemini%2BPrompts%2B(Content%2Bcreation%2C%2BDesign%2B%26%2BMore).pdf)
